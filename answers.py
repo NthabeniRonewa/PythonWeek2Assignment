@@ -19,5 +19,9 @@ print(my_list.index(30))
 
 print(my_list)
 
+name = input("What is your name? ")
+print(f"Hello, {name}!")
+
+
 
  
